@@ -1,7 +1,7 @@
 -- ============================================================================
 -- Space Mining - A dark, space-themed Neovim colorscheme
 -- ============================================================================
--- Maintainer: [Your Name]
+-- Maintainer: [Egas Ribeiro]
 -- License: MIT
 -- Repository: https://github.com/[username]/space-mining.nvim
 -- ============================================================================
